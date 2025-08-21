@@ -67,5 +67,5 @@ Current configuration:
 See list of Databricks CLI commands
 
 References:  
-1.   [Databricks CLI tutorial]([https://docs.databricks.com/](https://docs.databricks.com/aws/en/dev-tools/cli/))
+1.   [Databricks CLI tutorial](https://docs.databricks.com/](https://docs.databricks.com/aws/en/dev-tools/cli/)
  | Databricks Documentation 08-21-2025
