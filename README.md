@@ -1,3 +1,6 @@
+### Configure Databricks CLI to communicate with your workspace
+
+
 The Databricks CLI (command-line interface) allows you to interact with the Databricks platform from your local terminal or automation scripts. 
 
 The Databricks CLI commands can also be run from within a Databricks workspace using web terminal 
@@ -52,4 +55,4 @@ See list of Databricks CLI commands
 
 References: 
 1. Databricks CLI tutorial  Databricks CLI tutorial | Databricks Documentation 08-21-2025
-<img width="925" height="1522" alt="image" src="https://github.com/user-attachments/assets/b4557530-e9f4-4f7d-b92e-6fe124b0b6b3" />
+
